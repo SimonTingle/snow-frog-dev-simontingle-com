@@ -1,4 +1,7 @@
 {
   "schemaVersion": 2,
-  "templateId": "static"
+  "templateId": "static",
+  "configuration": {
+    "version": "stable"
+  }
 }
